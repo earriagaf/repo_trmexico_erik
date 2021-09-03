@@ -6,5 +6,5 @@ Bienvenidos al repositorio de trmexico de Erik
 2.- Responder la peticion de color RGB
 
 Este archivo tiene el bash_history del git-bash que les mostré en la presentación
-bash_history.txt
+bash_history
 
